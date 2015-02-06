@@ -4,7 +4,8 @@ var jokes = [
   {name: 'Avenue', answer: 'knocked on this door before?'},
   {name: 'Ice Cream', answer: 'if you don\'t let me in!'},
   {name: 'Adore', answer: 'is between us. Open up!'},
-  {name: 'Lettuce', answer: 'in. It\'s cold out here!'}
+  {name: 'Lettuce', answer: 'in. It\'s cold out here!'},
+  {name: 'Bed', answer: 'you can not guess who I am.'}
 ]
 
 module.exports = function () {
