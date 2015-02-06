@@ -8,7 +8,8 @@ var jokes = [
   {name: 'Bed', answer: 'you can not guess who I am.'},
   {name: 'Al', answer: 'give you a kiss if you open the door.'},
   {name: 'Olive', answer: 'you!'},
-  {name: 'Abby', answer: 'birthday to you!'}
+  {name: 'Abby', answer: 'birthday to you!'},
+  {name: 'Rufus', answer: 'the most important part of your house.'}
 ]
 
 module.exports = function () {
