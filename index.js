@@ -3,7 +3,8 @@ var jokes = [
   {name: 'Dozen', answer: 'anybody want to let me in?'},
   {name: 'Avenue', answer: 'knocked on this door before?'},
   {name: 'Ice Cream', answer: 'if you don\'t let me in!'},
-  {name: 'Adore', answer: 'is between us. Open up!'}
+  {name: 'Adore', answer: 'is between us. Open up!'},
+  {name: 'Lettuce', answer: 'in. It\'s cold out here!'}
 ]
 
 module.exports = function () {
