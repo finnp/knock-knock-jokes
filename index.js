@@ -6,7 +6,8 @@ var jokes = [
   {name: 'Adore', answer: 'is between us. Open up!'},
   {name: 'Lettuce', answer: 'in. It\'s cold out here!'},
   {name: 'Bed', answer: 'you can not guess who I am.'},
-  {name: 'Al', answer: 'give you a kiss if you open the door.'}
+  {name: 'Al', answer: 'give you a kiss if you open the door.'},
+  {name: 'Olive', answer: 'you!'}
 ]
 
 module.exports = function () {
