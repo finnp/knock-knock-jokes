@@ -1,5 +1,6 @@
 
 var jokes = [
+  {name: 'Dishes', answer: 'Sean Connery.'},
   {name: 'Dozen', answer: 'anybody want to let me in?'},
   {name: 'Avenue', answer: 'knocked on this door before?'},
   {name: 'Ice Cream', answer: 'if you don\'t let me in!'},
